@@ -1,4 +1,4 @@
-<img width="600" height="150" alt="Sprawl software (3)" src="https://github.com/user-attachments/assets/4a958b87-62a4-405e-ba34-3fa682a46ef5" />
+<img width="600" height="150" alt="Sprawl software (4)" src="https://github.com/user-attachments/assets/a548c20c-25f5-495f-bbb5-4db2ae0543fc" />
 
 
 **Sprawl** is an editor-agnostic configuration management engine for AI coding tools.  
