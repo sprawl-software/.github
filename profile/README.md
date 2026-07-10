@@ -51,3 +51,10 @@ Beyond tools, we help enterprises adopt AI safely:
 
 ```bash
 curl -sL https://raw.githubusercontent.com/sprawl-software/sprawl-cli/main/install.sh | bash
+cd my-project/ && sprawl graft && sprawl sync && sprawl bind
+
+```
+
+Stay Local. Contain the Loop. Code in Quarantine.
+
+Built in Antwerp 🇧🇪 by Younes Baghor
