@@ -1,5 +1,12 @@
-<img width="600" height="150" alt="Sprawl software (4)" src="https://github.com/user-attachments/assets/a548c20c-25f5-495f-bbb5-4db2ae0543fc" />
+ ```
+https://sprawl.software
+   _____ ____  ____  ___ _       ____                       ______                         
+  / ___// __ \/ __ \/   | |     / / /           _________  / __/ /__      ______ _________ 
+  \__ \/ /_/ / /_/ / /| | | /| / / /           / ___/ __ \/ /_/ __/ | /| / / __ `/ ___/ _ \
+ ___/ / ____/ _, _/ ___ | |/ |/ / /___   _    (__  ) /_/ / __/ /_ | |/ |/ / /_/ / /  /  __/
+/____/_/   /_/ |_/_/  |_|__/|__/_____/  (_)  /____/\____/_/  \__/ |__/|__/\__,_/_/   \___/ 
 
+```                                                                                          
 
 **Sprawl** is an editor-agnostic configuration management engine for AI coding tools.  
 One config. Every editor. Version-controlled in Git.
